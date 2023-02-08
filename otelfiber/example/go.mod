@@ -7,10 +7,10 @@ replace github.com/gofiber/contrib/otelfiber => ../
 require (
 	github.com/gofiber/contrib/otelfiber v0.23.0
 	github.com/gofiber/fiber/v2 v2.41.0
-	go.opentelemetry.io/otel v1.12.0
+	go.opentelemetry.io/otel v1.13.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.12.0
-	go.opentelemetry.io/otel/sdk v1.12.0
-	go.opentelemetry.io/otel/trace v1.12.0
+	go.opentelemetry.io/otel/sdk v1.13.0
+	go.opentelemetry.io/otel/trace v1.13.0
 
 )
 
@@ -26,7 +26,7 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.43.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	go.opentelemetry.io/contrib v1.12.0 // indirect
+	go.opentelemetry.io/contrib v1.13.0 // indirect
 	go.opentelemetry.io/otel/metric v0.34.0 // indirect
 	golang.org/x/sys v0.3.0 // indirect
 )
